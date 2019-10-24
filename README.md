@@ -1,6 +1,8 @@
 Pixi教程
 =============
 
+Added by moomoofarm1: PixiJS official website tutorial, https://www.pixijs.com/tutorials
+
 基于官方教程翻译；水平有限，如有错误欢迎提PR，转载请注明出处。翻译者为[htkz](https://github.com/htkz)（完成了用 Pixi 绘制几何图形 和 显示文本 章节）和[zainking](https://github.com/ZainKing)(完成了其他所有章节)
 另感谢[htkz](https://github.com/explooosion)、[NearZXH](https://github.com/NearZXH)以及[HHHHhgqcdxhg](https://github.com/HHHHhgqcdxhg)对错误及错别字等做出的订正。
 
